@@ -47,3 +47,7 @@ Wordly uses the Free Dictionary API:
 https://api.dictionaryapi.dev/api/v2/entries/en/<word>
 
 During development, the API experienced a server-side outage. Wordly includes error handling so users receive a readable message when the dictionary service is unavailable.
+
+## Author
+
+Created by a-gbatie
