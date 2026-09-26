@@ -23,4 +23,4 @@ A single-page dictionary application built with HTML, CSS, and JavaScript. Users
 
 ## Purpose
 
-This project demonstrates building a Single Page Application (SPA) using event listeners, asynchronous API requests, DOM manipulation, and dynamic content rendering." > README.md
+This project demonstrates building a Single Page Application (SPA) using event listeners, asynchronous API requests, DOM manipulation, and dynamic content rendering."
